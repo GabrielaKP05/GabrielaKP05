@@ -1,6 +1,9 @@
+
 # 👋 Hi, I’m @GabrielaKP05
+<img align="left" widht="200px" height="200px" src="https://github.com/GabrielaKP05/GabrielaKP05/assets/134091051/de8d5f60-e9c5-4a99-b7d9-d5b79cc384fc">
+
 - 👀 I’m interested in coding in general
-- 🌱 I’m currently learning Java e Java-Script
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on anyproject
 - 📫 Reach me on Linkedin
 
@@ -11,6 +14,10 @@
 
 # Most used languages
 <a href="https://github.com/GabrielaKP05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaKP05&layout=compact&theme=dark&hide_border=true" /></a> 
+
+</img>
+
+
 
 
 
