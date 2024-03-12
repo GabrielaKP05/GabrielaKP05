@@ -3,7 +3,7 @@
 <img align="left" widht="200px" height="200px" src="https://github.com/GabrielaKP05/GabrielaKP05/assets/134091051/de8d5f60-e9c5-4a99-b7d9-d5b79cc384fc">
 
 - 👀 I’m interested in coding in general
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on anyproject
 - 📫 Reach me on Linkedin
 
